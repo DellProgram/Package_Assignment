@@ -1,0 +1,57 @@
+Test Case 1:
+
+Input Data:
+
+Weight:           15 pounds
+
+Miles:              500 miles                                     (This is one 1000 mile segment.)
+
+Expected results: 
+
+Your shipping charge is $10.00
+
+Test Case 2:
+
+Input Data:
+
+Weight:           90 pounds 
+
+Miles:              2000 miles                                   (This is two 1000 mile segments.)
+
+Expected results: 
+
+Your shipping charge is $20.00
+
+ Test Case 3:
+
+Input Data:
+
+Weight:           71 pounds 
+
+Miles:              3000 miles                                   (This is three 1000 mile segments.)
+
+ Expected results:   
+
+Your shipping charge is $30.00
+
+ Test Case 4:
+
+Input Data:
+
+Weight:          192 pounds 
+
+Miles:              9950 miles                                   (This is ten 1000 mile segments.)
+
+Expected results: 
+
+Your shipping charge is $200.00
+
+Test Case 5:
+
+Weight:         230 pounds 
+
+Miles:              345 miles  
+
+ Expected results: 
+
+ Sorry, we only ship packages of 200 pounds or less.
